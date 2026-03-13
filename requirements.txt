@@ -1,0 +1,7 @@
+opencv-python>=4.8.0
+torch>=2.1.0
+transformers>=4.35.0
+numpy>=1.24.0
+scipy>=1.11.0
+filterpy>=1.4.0
+coremltools>=7.0.0
